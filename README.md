@@ -1,2 +1,2 @@
 # c++ prime factorization
-c++ prime factorization code with vector
+simple c++ prime factorization code
